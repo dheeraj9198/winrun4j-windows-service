@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jackson-annotations-2.6.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/org.boris.winrun4j.test/java/src/libs/jackson-annotations-2.6.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/org.boris.winrun4j.test/java/src/libs/jackson-core-2.6.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/org.boris.winrun4j.test/java/src/libs/jackson-databind-2.6.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/org.boris.winrun4j.test/java/src/libs/netty-all-4.0.33.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/org.boris.winrun4j.test/java/src/libs/netty-socketio-1.7.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

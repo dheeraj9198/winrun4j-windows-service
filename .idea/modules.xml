@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/org.boris.winrun4j/java/org.boris.winrun4j.iml" filepath="$PROJECT_DIR$/org.boris.winrun4j/java/org.boris.winrun4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.boris.winrun4j.classloader/java/org.boris.winrun4j.classloader.iml" filepath="$PROJECT_DIR$/org.boris.winrun4j.classloader/java/org.boris.winrun4j.classloader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.boris.winrun4j.eclipse/java/org.boris.winrun4j.eclipse.iml" filepath="$PROJECT_DIR$/org.boris.winrun4j.eclipse/java/org.boris.winrun4j.eclipse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.boris.winrun4j.eclipsedde/java/org.boris.winrun4j.eclipsedde.iml" filepath="$PROJECT_DIR$/org.boris.winrun4j.eclipsedde/java/org.boris.winrun4j.eclipsedde.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.boris.winrun4j.test/java/org.boris.winrun4j.test.iml" filepath="$PROJECT_DIR$/org.boris.winrun4j.test/java/org.boris.winrun4j.test.iml" />
+    </modules>
+  </component>
+</project>

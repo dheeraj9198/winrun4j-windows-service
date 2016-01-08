@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="WinRun4J">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/org.boris.winrun4j.test/java/src/libs/WinRun4J.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

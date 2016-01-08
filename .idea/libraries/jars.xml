@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="jars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/org.boris.winrun4j.test/data/jars/whatever-1.0.34.jar!/" />
+      <root url="jar://$PROJECT_DIR$/org.boris.winrun4j.test/data/jars/Copy (3) of dummy1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/org.boris.winrun4j.test/data/jars/dummy1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/org.boris.winrun4j.test/data/jars/something with a really long name.jar!/" />
+      <root url="jar://$PROJECT_DIR$/org.boris.winrun4j.test/data/jars/extras.zip!/" />
+      <root url="jar://$PROJECT_DIR$/org.boris.winrun4j.test/data/jars/Copy (5) of dummy1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/org.boris.winrun4j.test/data/jars/Copy of dummy1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/org.boris.winrun4j.test/data/jars/d2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/org.boris.winrun4j.test/data/jars/fred.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="launcher">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/org.boris.winrun4j.eclipse/launcher/WinRun4J.jar!/" />
+      <root url="jar://$PROJECT_DIR$/org.boris.winrun4j.eclipse/launcher/WinRun4J-src.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

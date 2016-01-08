@@ -1,0 +1,61 @@
+2016-01-08 00:43:54,578 [main] ERROR org.boris.winrun4j.test.ServiceTest  - started
+2016-01-08 00:43:56,022 [main] DEBUG io.netty.util.internal.logging.InternalLoggerFactory  - Using SLF4J as the default logging framework
+2016-01-08 00:43:56,066 [main] DEBUG io.netty.util.internal.PlatformDependent0  - java.nio.Buffer.address: available
+2016-01-08 00:43:56,068 [main] DEBUG io.netty.util.internal.PlatformDependent0  - sun.misc.Unsafe.theUnsafe: available
+2016-01-08 00:43:56,068 [main] DEBUG io.netty.util.internal.PlatformDependent0  - sun.misc.Unsafe.copyMemory: available
+2016-01-08 00:43:56,069 [main] DEBUG io.netty.util.internal.PlatformDependent0  - java.nio.Bits.unaligned: true
+2016-01-08 00:43:56,071 [main] DEBUG io.netty.util.internal.PlatformDependent  - Platform: Windows
+2016-01-08 00:43:56,071 [main] DEBUG io.netty.util.internal.PlatformDependent  - Java version: 8
+2016-01-08 00:43:56,072 [main] DEBUG io.netty.util.internal.PlatformDependent  - -Dio.netty.noUnsafe: false
+2016-01-08 00:43:56,072 [main] DEBUG io.netty.util.internal.PlatformDependent  - sun.misc.Unsafe: available
+2016-01-08 00:43:56,072 [main] DEBUG io.netty.util.internal.PlatformDependent  - -Dio.netty.noJavassist: false
+2016-01-08 00:43:56,074 [main] DEBUG io.netty.util.internal.PlatformDependent  - Javassist: unavailable
+2016-01-08 00:43:56,075 [main] DEBUG io.netty.util.internal.PlatformDependent  - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2016-01-08 00:43:56,075 [main] DEBUG io.netty.util.internal.PlatformDependent  - -Dio.netty.tmpdir: C:\Users\Aurus\AppData\Local\Temp (java.io.tmpdir)
+2016-01-08 00:43:56,076 [main] DEBUG io.netty.util.internal.PlatformDependent  - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2016-01-08 00:43:56,077 [main] DEBUG io.netty.util.internal.PlatformDependent  - -Dio.netty.noPreferDirect: false
+2016-01-08 00:43:56,098 [main] DEBUG io.netty.util.ResourceLeakDetector  - -Dio.netty.leakDetection.level: simple
+2016-01-08 00:43:56,098 [main] DEBUG io.netty.util.ResourceLeakDetector  - -Dio.netty.leakDetection.maxRecords: 4
+2016-01-08 00:43:56,688 [main] INFO  com.corundumstudio.socketio.SocketIOServer  - Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2016-01-08 00:43:56,723 [main] DEBUG io.netty.channel.MultithreadEventLoopGroup  - -Dio.netty.eventLoopThreads: 8
+2016-01-08 00:43:56,942 [main] DEBUG io.netty.channel.nio.NioEventLoop  - -Dio.netty.noKeySetOptimization: false
+2016-01-08 00:43:56,943 [main] DEBUG io.netty.channel.nio.NioEventLoop  - -Dio.netty.selectorAutoRebuildThreshold: 512
+2016-01-08 00:43:57,208 [main] DEBUG io.netty.buffer.ByteBufUtil  - -Dio.netty.allocator.type: unpooled
+2016-01-08 00:43:57,208 [main] DEBUG io.netty.buffer.ByteBufUtil  - -Dio.netty.threadLocalDirectBufferSize: 65536
+2016-01-08 00:43:57,208 [main] DEBUG io.netty.buffer.ByteBufUtil  - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2016-01-08 00:43:57,217 [main] DEBUG io.netty.buffer.AbstractByteBuf  - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2016-01-08 00:43:57,706 [main] DEBUG io.netty.util.internal.ThreadLocalRandom  - -Dio.netty.initialSeedUniquifier: 0x3d7e553c55866238 (took 26 ms)
+2016-01-08 00:43:57,818 [main] DEBUG io.netty.util.NetUtil  - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2016-01-08 00:43:57,819 [main] DEBUG io.netty.util.NetUtil  - \proc\sys\net\core\somaxconn: 200 (non-existent)
+2016-01-08 00:43:57,845 [nioEventLoopGroup-2-1] INFO  com.corundumstudio.socketio.SocketIOServer  - SocketIO server started at port: 9092
+2016-01-08 00:44:37,672 [main] ERROR org.boris.winrun4j.test.ServiceTest  - started
+2016-01-08 00:44:58,857 [main] ERROR org.boris.winrun4j.test.ServiceTest  - started
+2016-01-08 00:44:59,796 [main] DEBUG io.netty.util.internal.logging.InternalLoggerFactory  - Using SLF4J as the default logging framework
+2016-01-08 00:44:59,820 [main] DEBUG io.netty.util.internal.PlatformDependent0  - java.nio.Buffer.address: available
+2016-01-08 00:44:59,821 [main] DEBUG io.netty.util.internal.PlatformDependent0  - sun.misc.Unsafe.theUnsafe: available
+2016-01-08 00:44:59,821 [main] DEBUG io.netty.util.internal.PlatformDependent0  - sun.misc.Unsafe.copyMemory: available
+2016-01-08 00:44:59,822 [main] DEBUG io.netty.util.internal.PlatformDependent0  - java.nio.Bits.unaligned: true
+2016-01-08 00:44:59,824 [main] DEBUG io.netty.util.internal.PlatformDependent  - Platform: Windows
+2016-01-08 00:44:59,824 [main] DEBUG io.netty.util.internal.PlatformDependent  - Java version: 8
+2016-01-08 00:44:59,824 [main] DEBUG io.netty.util.internal.PlatformDependent  - -Dio.netty.noUnsafe: false
+2016-01-08 00:44:59,824 [main] DEBUG io.netty.util.internal.PlatformDependent  - sun.misc.Unsafe: available
+2016-01-08 00:44:59,825 [main] DEBUG io.netty.util.internal.PlatformDependent  - -Dio.netty.noJavassist: false
+2016-01-08 00:44:59,827 [main] DEBUG io.netty.util.internal.PlatformDependent  - Javassist: unavailable
+2016-01-08 00:44:59,827 [main] DEBUG io.netty.util.internal.PlatformDependent  - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2016-01-08 00:44:59,829 [main] DEBUG io.netty.util.internal.PlatformDependent  - -Dio.netty.tmpdir: C:\Users\Aurus\AppData\Local\Temp (java.io.tmpdir)
+2016-01-08 00:44:59,831 [main] DEBUG io.netty.util.internal.PlatformDependent  - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2016-01-08 00:44:59,831 [main] DEBUG io.netty.util.internal.PlatformDependent  - -Dio.netty.noPreferDirect: false
+2016-01-08 00:44:59,847 [main] DEBUG io.netty.util.ResourceLeakDetector  - -Dio.netty.leakDetection.level: simple
+2016-01-08 00:44:59,847 [main] DEBUG io.netty.util.ResourceLeakDetector  - -Dio.netty.leakDetection.maxRecords: 4
+2016-01-08 00:45:00,260 [main] INFO  com.corundumstudio.socketio.SocketIOServer  - Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2016-01-08 00:45:00,266 [main] DEBUG io.netty.channel.MultithreadEventLoopGroup  - -Dio.netty.eventLoopThreads: 8
+2016-01-08 00:45:00,303 [main] DEBUG io.netty.channel.nio.NioEventLoop  - -Dio.netty.noKeySetOptimization: false
+2016-01-08 00:45:00,303 [main] DEBUG io.netty.channel.nio.NioEventLoop  - -Dio.netty.selectorAutoRebuildThreshold: 512
+2016-01-08 00:45:00,502 [main] DEBUG io.netty.buffer.ByteBufUtil  - -Dio.netty.allocator.type: unpooled
+2016-01-08 00:45:00,503 [main] DEBUG io.netty.buffer.ByteBufUtil  - -Dio.netty.threadLocalDirectBufferSize: 65536
+2016-01-08 00:45:00,503 [main] DEBUG io.netty.buffer.ByteBufUtil  - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2016-01-08 00:45:00,511 [main] DEBUG io.netty.buffer.AbstractByteBuf  - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2016-01-08 00:45:00,705 [main] DEBUG io.netty.util.internal.ThreadLocalRandom  - -Dio.netty.initialSeedUniquifier: 0x12eb0e87b5923736 (took 5 ms)
+2016-01-08 00:45:00,789 [main] DEBUG io.netty.util.NetUtil  - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2016-01-08 00:45:00,790 [main] DEBUG io.netty.util.NetUtil  - \proc\sys\net\core\somaxconn: 200 (non-existent)
+2016-01-08 00:45:00,803 [nioEventLoopGroup-2-1] INFO  com.corundumstudio.socketio.SocketIOServer  - SocketIO server started at port: 9092
