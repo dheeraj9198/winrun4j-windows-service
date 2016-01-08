@@ -1,3 +1,6 @@
 compile
 replace ServiceTest.class and related classes in jar using 7 zip
 run
+
+service.exe --WinRun4J:RegisterService
+service.exe --WinRun4J:UnregisterService
